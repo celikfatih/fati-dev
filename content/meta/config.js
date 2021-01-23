@@ -4,15 +4,15 @@ module.exports = {
   siteTitle: "PersonalBlog - a blog starter for GatsbyJS", // <title>
   shortSiteTitle: "PersonalBlog GatsbyJS Starter", // <title> ending for posts and pages
   siteDescription: "PersonalBlog is a GatsbyJS starter.",
-  siteUrl: "https://gatsby-starter-personal-blog.greglobinski.com",
+  siteUrl: "",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
   // author
-  authorName: "greg lobinski",
-  authorTwitterAccount: "greglobinski",
+  authorName: "Fatih Celik",
+  authorTwitterAccount: "fatidev",
   // info
-  infoTitle: "greg lobinski",
+  infoTitle: "Fatih Celik",
   infoTitleNote: "personal blog",
   // manifest.json
   manifestName: "PersonalBlog - a blog starter for GatsbyJS",
@@ -22,11 +22,11 @@ module.exports = {
   manifestThemeColor: colors.background,
   manifestDisplay: "standalone",
   // contact
-  contactEmail: "john@doe.com",
+  contactEmail: "fati.dev@protonmail.com",
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/greglobinski" },
-    { name: "twitter", url: "https://twitter.com/greglobinski" },
-    { name: "facebook", url: "https://facebook.com/greglobinski" }
+    { name: "github", url: "https://github.com/fatidev" },
+    { name: "twitter", url: "https://twitter.com/fatidev" },
+    { name: "facebook", url: "https://facebook.com/fatidev" }
   ]
 };
