@@ -1,7 +1,7 @@
 const colors = require("../../src/styles/colors");
 
 module.exports = {
-  siteTitle: "PersonalBlog - a blog starter for GatsbyJS", // <title>
+  siteTitle: "fati.dev | Personal Blog Site", // <title>
   shortSiteTitle: "PersonalBlog GatsbyJS Starter", // <title> ending for posts and pages
   siteDescription: "PersonalBlog is a GatsbyJS starter.",
   siteUrl: "https://fati.dev",
@@ -9,10 +9,10 @@ module.exports = {
   siteImage: "preview.jpg",
   siteLanguage: "en",
   // author
-  authorName: "Fatih Celik",
+  authorName: "fati",
   authorTwitterAccount: "fatidev",
   // info
-  infoTitle: "Fatih Celik",
+  infoTitle: "fati",
   infoTitleNote: "personal blog",
   // manifest.json
   manifestName: "PersonalBlog - a blog starter for GatsbyJS",
