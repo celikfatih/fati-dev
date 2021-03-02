@@ -2,4 +2,4 @@
 title: author
 ---
 
-**Mr. Fatih** Software engineer. Future-savvy, tech addict, and passionate lover.
+**Fatih Celik** Software engineer. Future-savvy, tech addict, and passionate lover.
