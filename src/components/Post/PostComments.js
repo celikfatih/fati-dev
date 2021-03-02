@@ -19,7 +19,7 @@ const PostComments = props => {
 
   return (
     <div id="post-comments" className={classes.postComments}>
-      <div>Comment bolumudur.</div>
+      
     </div>
   );
 };
