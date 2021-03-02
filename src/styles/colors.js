@@ -1,7 +1,7 @@
 module.exports = {
   background: "#ffffff",
   white: "#ffffff",
-  accent: "#003199",
+  accent: "#6CBB00",
   bright: "#ffffff",
   dark: "#333333",
   gray: "#555555",
