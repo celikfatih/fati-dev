@@ -19,13 +19,7 @@ const PostComments = props => {
 
   return (
     <div id="post-comments" className={classes.postComments}>
-      <FacebookProvider appId={facebook}>
-        <Comments
-          href={`${config.siteUrl}${slug}`}
-          width="100%"
-          colorScheme={props.theme.main.colors.fbCommentsColorscheme}
-        />
-      </FacebookProvider>
+      <div>Comment bolumudur.</div>
     </div>
   );
 };
@@ -34,8 +28,7 @@ PostComments.propTypes = {
   classes: PropTypes.object.isRequired,
   post: PropTypes.object.isRequired,
   slug: PropTypes.string.isRequired,
-  theme: PropTypes.object.isRequired,
-  facebook: PropTypes.object.isRequired
+  theme: PropTypes.object.isRequired
 };
 
 export default injectSheet(styles)(PostComments);
