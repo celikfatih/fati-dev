@@ -2,7 +2,6 @@
 title: footnote
 ---
 
-* this is a my blog site 
-* built by [fati](https://www.fati.dev)
+* copyright 2021 fatih celik
+* built with [Gatsby](https://www.gatsbyjs.org) & [React](https://reactjs.org)
 * delivered by [Netlify](https://www.netlify.com/)
-* photos by [unsplash.com](https://unsplash.com)
